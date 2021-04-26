@@ -4,7 +4,7 @@ The repository contains information regarding atcoder scripts that can be used f
 
 ## Requirement:
 
-At coder tools:
+Atcoder tools:
 
 https://github.com/kyuridenamida/atcoder-tools
 
