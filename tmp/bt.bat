@@ -1,0 +1,1 @@
+.\build.bat %1 && cd .. && .\t.bat %1
